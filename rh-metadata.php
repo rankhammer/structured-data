@@ -1,9 +1,9 @@
 <?php
 
 /*
-Plugin Name: Structured Markup for Wordpress
+Plugin Name: Structured Data
 Plugin URI: http://www.rankhammer.com
-Description: Add rich, structured data to your Wordpress install.
+Description: Enable & create Google+ Interactive Posts for your blog posts & pages.
 Version: 1.0
 Author: RankHammer
 Author URI: http://www.rankhammer.com

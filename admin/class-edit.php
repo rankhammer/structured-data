@@ -77,7 +77,7 @@ class RHContentEdit
         wp_nonce_field( RHMETADATA_BASENAME, 'rhmd_gpi_nonce' );
         ?>
 
-        <div id="rhmd-dialog-modal" title="Custom Structured Markup" style="display:none;">
+        <div id="rhmd-dialog-modal" title="Custom Structured Data" style="display:none;">
             <div id="rhmd-dialog-tabs">
                 <ul class="rhmd-nav-tabs nav">
                     <li class="nav-one"><a id="rh_sm_tab1" href="#rhmd-gplus" class="current">Google+ Interactive</a></li>

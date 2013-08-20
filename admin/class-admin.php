@@ -34,7 +34,7 @@ class RHMetaData_Admin
     public function register_settings_page()
     {
         add_menu_page(
-            __('Structured Markup Config', 'rh-schema'),
+            __('Structured Data Config', 'rh-schema'),
             __('Markup', 'rh-schema'),
             'manage_options',
             'rh-schema',
